@@ -1,0 +1,14 @@
+{
+  "cities": [
+    { "name": "Beijing", "country": "China", "pop": 21540000 },
+    { "name": "İzmir", "country": "Türkiye", "pop": 4320519 },
+    { "name": "Shanghai", "country": "China", "pop": 24870895 },
+    { "name": "Berlin", "country": "Germany", "pop": 3748148 },
+    { "name": "London", "country": "United Kingdom", "pop": 8961989 },
+    { "name": "Paris", "country": "France", "pop": 2140526 },
+    { "name": "Rome", "country": "Italy", "pop": 2872800 },
+    { "name": "Madrid", "country": "Spain", "pop": 3266126 },
+    { "name": "New York", "country": "United States", "pop": 8336817 },
+    { "name": "Tokyo", "country": "Japan", "pop": 13929286 }
+  ]
+}

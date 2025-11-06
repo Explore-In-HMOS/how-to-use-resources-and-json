@@ -1,0 +1,31 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    { "name": "app_name",
+      "value": "Resource & JSON Demo"
+    },
+    { "name": "title_cities",
+      "value": "Cities"
+    },
+    { "name": "hint_loaded",
+      "value": "Data loaded successfully."
+    },
+    { "name": "hint_loading",
+      "value": "Loading data..."
+    },
+    { "name": "hint_error",
+      "value": "Failed to load data."
+    }
+  ]
+}
