@@ -16,7 +16,7 @@ export class ResourceUtils {
 
   static async getString(ui: UIContext, res: Resource): Promise<string> {
     const host = ResourceUtils.getHostCtx(ui);
-    return host.resourceManager.getString(res.id);
+    return host.resourceManager.getStringValue(res.id);
   }
 
   static async readRawfileText(ui: UIContext, filename: string): Promise<string> {

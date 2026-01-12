@@ -2,41 +2,42 @@
 
 # How To Use Resources And JSON
 
-This codelab demonstrates how to read and display data from both HarmonyOS resource files (string.json, color.json) and raw JSON files located under the resources/rawfile directory.
+This codelab demonstrates how to read and display data from both HarmonyOS resource files (string.json, color.json) and
+raw JSON files located under the resources/rawfile directory.
 It provides a simple yet practical example of data loading, resource management, and UI rendering using ArkTS.
 
 # Preview
 
 <div>    
-  <img src="screenshots/1.png" width="25%">
-  <img src="screenshots/2.png" width="25%">
+  <img src="screenshots/1.png" width="25%" style="margin-right: 10px;">
+  <img src="screenshots/2.png" width="25%" style="margin-right: 10px;">
 </div>
 
 # Use Cases
 
 - Localized UI text management:
-Developers can define all app texts in string.json and access them dynamically in code, ensuring proper i18n and maintainability.
+  Developers can define all app texts in string.json and access them dynamically in code, ensuring proper i18n and
+  maintainability.
 
 - Centralized color handling:
-Colors are stored in color.json and accessed via $r('app.color.xxx'), enabling easy theme customization and design consistency.
+  Colors are stored in color.json and accessed via $r('app.color.xxx'), enabling easy theme customization and design
+  consistency.
 
 - Data-driven UI:
-Applications that need to display or process structured data (like lists, catalogs, or configuration files) can load content directly from JSON files without requiring a remote API.
+  Applications that need to display or process structured data (like lists, catalogs, or configuration files) can load
+  content directly from JSON files without requiring a remote API.
 
 - Offline-ready apps:
-This approach is ideal for small apps or demos that work without network connectivity — data is embedded within the application package.
+  This approach is ideal for small apps or demos that work without network connectivity — data is embedded within the
+  application package.
 
 - Educational & demo projects:
-Suitable for developers learning ArkTS, resource management, or file I/O in HarmonyOS NEXT.
-
+  Suitable for developers learning ArkTS, resource management, or file I/O in HarmonyOS NEXT.
 
 # Tech Stack
 
 - **Languages**: ArkTS, ArkUI
-- **Frameworks**: HarmonyOS SDK 5.0.2(14)
-- **Tools**: DevEco Studio Vers 5.1.0.828
 - **Libraries**: @kit.ArkUI, @kit.PerformanceAnalysisKit, @kit.BasicServicesKit
-
 
 # Directory Structure
 
