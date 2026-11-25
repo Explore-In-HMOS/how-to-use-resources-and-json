@@ -32,7 +32,7 @@ It provides a simple yet practical example of data loading, resource management,
   application package.
 
 - Educational & demo projects:
-  Suitable for developers learning ArkTS, resource management, or file I/O in HarmonyOS NEXT.
+  Suitable for developers learning ArkTS, resource management, or file I/O in HarmonyOS.
 
 # Tech Stack
 
